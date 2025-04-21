@@ -16,6 +16,8 @@ A partir daí, basta inserir em sequência o código equivalente às cores das 2
 - 'O' = laranja;
 - 'G' = verde;
 
+![Notação do cubo](https://github.com/guilherme-ls/Rubik-s-cube-solver-size-2-/blob/main/Nota%C3%A7%C3%A3o.PNG)
+
 Por fim, o programa exibirá o número de passos que levou, o caminho encontrado e sua distância. A notação do caminho é padrão para cubos mágicos. A exemplo, uma execução do programa toma a seguinte forma:
 ```
 Insira o estado inicial do cubo:
