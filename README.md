@@ -1,1 +1,1 @@
-# Rubik-s-cube-solver-size-2-
+# Rubik's cube solver for size 2
